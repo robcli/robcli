@@ -1,14 +1,14 @@
-### Hello, I'm Robert Li
+## Hello, I'm Robert Li
 
 I am an undergraduate research assistant in the Blanchard Lab--a bioinformatics research group. Currently a junior studying biology and computer science. 
 
-## Blanchard lab 
+### Blanchard lab 
 Contains bash scripts for Unity and a guide to setting up conda environments. 
 
-## KEGG miner  
+### KEGG miner  
 Contains a miner that will append KEGG pathway descriptors to prokka/RAST outputs.
 
-## Coursework
+### Coursework
 Contains a self-balancing binary tree in Java and a finite state machine in JS.
 
 <!--
