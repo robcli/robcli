@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I'm Robert Li
+
+I am an undergraduate research assistant in the Blanchard Lab--a bioinformatics research group. Currently a junior studying biology and computer science. The Blanchard lab repository contains bash scripts for Unity and a guide to setting up conda environments. The KEGG miner repository contains a miner that will append KEGG pathway descriptors to prokka/RAST outputs.
 
 <!--
 **robcli/robcli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
