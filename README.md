@@ -6,7 +6,7 @@ I am an undergraduate research assistant in the Blanchard Lab--a bioinformatics 
 Contains bash scripts for Unity and a guide to setting up conda environments. 
 
 ### KEGG miner  
-Contains a miner that will append KEGG pathway descriptors to prokka/RAST outputs.
+Contains a miner that will append KEGG pathway descriptors to prokka outputs.
 
 ### Coursework
 Contains a self-balancing binary tree in Java and a finite state machine in JS.
