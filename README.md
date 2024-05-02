@@ -1,6 +1,6 @@
 ## Hello, I'm Robert Li
 
-I am an undergraduate research assistant in the Blanchard Lab--a bioinformatics research group. Currently a junior at UMass Amherst studying biology and computer science. I am passionate about the application of computation and data science to discover new insights in biological data. Learning deep learning and CNN to create predictive models. 
+I am an undergraduate research assistant in the Blanchard Lab--a bioinformatics research group. Currently a junior at UMass Amherst studying biology and computer science. I am passionate about the application of computation and data science to discover new insights in biological data. Learning deep learning.
 
 ### Blanchard lab 
 Contains bash scripts for Unity and a guide to setting up conda environments. 
